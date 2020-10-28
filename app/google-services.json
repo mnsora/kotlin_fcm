@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418702421563",
+    "firebase_url": "https://kotlin-fcm-test.firebaseio.com",
+    "project_id": "kotlin-fcm-test",
+    "storage_bucket": "kotlin-fcm-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418702421563:android:565353fe5ba71fbc31f61e",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418702421563-ef7dd97asv3st42puocpb747q5h7bvp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Agcj0NnqyhB5xesE2SXyPtybNIN0bj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418702421563-ef7dd97asv3st42puocpb747q5h7bvp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
